@@ -2,6 +2,10 @@
 
 This is a simple GUI application built using Python and tkinter library that allows you to download videos and audios from YouTube. 
 
+## Screenshots
+
+![Menu](./ss%20menu.png)
+
 ## Requirements
 
 The following are the required libraries for this application:
